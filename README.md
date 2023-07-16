@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hooiswho, a system administrator.
-- 👀 I’m interested in learning all about DevOps.
-- 🌱 I’m currently learning Git, Docker, Kubernetes, and Ansible
-
+- 👋 Hi, I’m @hooiswho, a cloud engineer.
+- 👀 I’m interested in learning all about cloud.
+- 🌱 I’m currently learning Git, Docker, Kubernetes, AWS, and Azure
+  
 Let me know if there are still other things I need to learn to pursue a career in DevOps.
 
 <!---
